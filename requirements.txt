@@ -1,0 +1,3 @@
+pysdl2
+pysdl2_dll
+accessible_output2
